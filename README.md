@@ -2,7 +2,7 @@
 
 This repository contains the implementation and supplementary material for our research on the robustness of the Visual State Space Model (VMamba) against backdoor attacks and the introduction of our novel architectural backdoor attack, BadScan.
 
-![Architecture](./BadScan_Block.pdf "Architecture image")
+![Architecture](BadScan_Block.pdf)
 
 ## About the paper
 
