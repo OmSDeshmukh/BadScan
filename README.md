@@ -2,7 +2,7 @@
 
 This repository contains the implementation and supplementary material for our research on the robustness of the Visual State Space Model (VMamba) against backdoor attacks and the introduction of our novel architectural backdoor attack, BadScan.
 
-## Introduction
+## About the paper
 
 The newly introduced Visual State Space Model (VMamba), which employs State Space Mechanisms (SSM) to interpret images as sequences of patches, has shown exceptional performance compared to Vision Transformers (ViT) across various computer vision tasks. However, recent studies have highlighted that deep models are susceptible to adversarial attacks.
 
