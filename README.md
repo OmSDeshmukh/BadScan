@@ -4,6 +4,8 @@ This repository contains the implementation and supplementary material for our r
 
 ![Architecture](BadScan_Block.pdf)
 
+Paper can be found here [arxiv](https://arxiv.org/abs/2411.17283)
+
 ## About the paper
 
 The newly introduced Visual State Space Model (VMamba), which employs State Space Mechanisms (SSM) to interpret images as sequences of patches, has shown exceptional performance compared to Vision Transformers (ViT) across various computer vision tasks. However, recent studies have highlighted that deep models are susceptible to adversarial attacks.
